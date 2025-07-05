@@ -12,3 +12,5 @@ resource "azurerm_storage_account" "stg1" {
 
 
 }
+# This is my first line
+# This is my second line
