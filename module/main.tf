@@ -12,6 +12,7 @@ resource "azurerm_storage_account" "stg1" {
 
 
 }
+
 resource "azurerm_storage_account" "stg2" {
   name                     = "stgbhawani2"
   resource_group_name      = azurerm_resource_group.example.name
@@ -21,3 +22,7 @@ resource "azurerm_storage_account" "stg2" {
 
 
 }
+=======
+# This is my first line
+# This is my second line
+
